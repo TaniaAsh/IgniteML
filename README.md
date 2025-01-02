@@ -1,2 +1,2 @@
 # MLCourse
-MLCourse for non IT persons
+MLCourse for non IT professionals
