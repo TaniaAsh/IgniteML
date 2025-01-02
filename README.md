@@ -1,2 +1,3 @@
 # MLCourse
-MLCourse for non IT professionals
+Machine Learning Course for non IT professionals
+Please find more information in courseplan.ipynb
