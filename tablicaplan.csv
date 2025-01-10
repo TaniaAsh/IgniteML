@@ -1,0 +1,27 @@
+sprint,week,Course,Book,Project,Math
+1,1,Introduction to Machine Learning,The Machine Learning Landscape,London Properties,y=ax+b
+1,2,Regression with multiple input variables,,--,vectors
+2,3,Classification,End-to-end Machine Learning Project,Titanic,Derivative
+2,4,Neural Networks,,,
+3,5,Neural network training,3. Classification,,
+3,6,Advice for applying machine learning,,,
+4,7,Decision trees,4. Training Models,,
+4,8,Unsupervised learning,,,
+5,9,Recommender systems,5. Support Vector Machines,,
+5,10,Reinforcement learning,,,
+6,11,,6. Decision Trees,,
+6,12,,,,
+7,13,,7. Ensemble Learning and Random Forests,,
+7,14,,,,
+8,15,,8. Dimensionality Reduction,,
+8,16,,,,
+9,17,,9. Unsupervised Learning Techniques,,
+9,18,,,,
+10,19,,,,
+10,20,,,,
+11,21,,,,
+11,22,,,,
+12,23,,,,
+12,24,,,,
+13,25,,,,
+13,26,,,,
