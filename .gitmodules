@@ -1,0 +1,3 @@
+[submodule "AlekseiSSH"]
+	path = AlekseiSSH
+	url = git@github.com:geckonoff/ML-PROJECTS.git
