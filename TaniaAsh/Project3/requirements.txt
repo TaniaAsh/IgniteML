@@ -3,4 +3,5 @@ matplotlib
 pandas
 scikit-learn
 seaborn
+ipykernel
 tensorflow==2.10.0
